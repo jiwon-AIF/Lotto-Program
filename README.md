@@ -1,2 +1,2 @@
 # Lotto-Program
-GO 파일을 실행하면 1~45 사이의 6개 로또 번호가 출력되는 프로그램 입니다.
+This program generates random lottery numbers between 1 and 45.
